@@ -1,0 +1,5 @@
+Main\StarterTest.class
+Services\ExplorerTest.class
+Entities\SurfaceTest.class
+Entities\TondeuseTest.class
+Utils\gestionnaireFichierTest.class
